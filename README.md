@@ -2,6 +2,7 @@
 Le Plan 
 
 Qu’est ce que le NFC ?
+<BR>
 À quoi peut servir la NFC?
 Trois modes de fonctionnement
 Sécurité des données avec le NFC
